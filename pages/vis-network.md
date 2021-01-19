@@ -2,4 +2,4 @@
 title: vis-network
 ---
 
-## ## vis-network
+## vis-network
