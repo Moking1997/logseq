@@ -2,7 +2,7 @@
 title: vis-network
 ---
 
-## [vis-network](https://www.ame.cool/core/frontend-tools/)
+## [vis-network](https://github.com/visjs/vis-network)
 
 ### option
 ```js
@@ -26,3 +26,9 @@ var options = {
 network.setOptions(options);
 
 ```
+
+### event
+1. click
+2. doubleClick
+3. blurNode
+4. hoverNode
