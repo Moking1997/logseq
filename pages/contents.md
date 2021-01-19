@@ -8,6 +8,3 @@
 :background_color: #497d46
 :END:
 ### vis-network
-:PROPERTIES:
-:heading: true
-:END:
